@@ -1,4 +1,3 @@
-Hello, Github!
-This is a line of text. 
+I am Seth Google, a software engineering student who focuses on Full Stack Development.
 
-#This is syntax. 
+Welcome to my virtual portfolio. 
