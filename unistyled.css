@@ -1,0 +1,19 @@
+html {
+	background-color: #ff3340;
+  	font-family: 'Libre Baskerville', san-serif;
+  	font-size: 20px;
+  	color: white;
+  	margin-bottom: 10px;
+}
+
+h1, h2 {
+	color: #8E0505
+}
+
+h3, h4 {
+	color:#e7e9df;
+}
+
+a {
+	color: #d1ea00;
+}
