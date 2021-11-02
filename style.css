@@ -17,14 +17,14 @@ main {
 h1 {
   color: #000000;
   font-size: 35px;
-  font-family: 'Libre Baskerville', serif;
-  margin-bottom: 0px;
+  font-family: 'Libre Baskerville', sans-serif;
+  margin-bottom: 10px;
 }
 
 h2 {
   color: #f6304f;
   font-size: 21px;
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Libre Baskerville', sans-serif;
   margin-bottom: 10px;
 }
 
